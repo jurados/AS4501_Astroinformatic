@@ -1,2 +1,5 @@
 # Enviroments
 Astroinformatic/
+
+# IPython
+.ipynb_checkpoints/ 
