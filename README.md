@@ -1,4 +1,4 @@
-# AS4501_TeacherAssistant
+# AS4501: Astroinformatic
 As a Teacher Assistant of Astroinformatic (AS4501) at University of Chile, I created this repo with some classes make during.
 
 # Lectures
