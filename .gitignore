@@ -3,3 +3,6 @@ Astroinformatic/
 
 # IPython
 .ipynb_checkpoints/ 
+
+# ZIP files
+*.zip

@@ -12,3 +12,11 @@ As a Teacher Assistant of Astroinformatic (AS4501) at University of Chile, I cre
     - Falta: Usar SQL y ASQL con astroquery 
 
 - **Auxiliar 4 - Superversier Machine Learning**
+    - Falta: 
+        - GridSearch
+        - Usar LogistcRegerssion para classificar.
+        - Metodos de desbalanceos
+        - Implementación del Random Forest
+        - Cruva de Accuracy vs Hiperparemtro
+        - Tabla comparativa de todos los modelos
+    
